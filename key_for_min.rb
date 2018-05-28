@@ -22,4 +22,4 @@ def key_for_min_value(name_hash)
 end
 end
 
-#this is a rather long winded approach to solving this. 
+#this is a rather long winded approach to solving this.
