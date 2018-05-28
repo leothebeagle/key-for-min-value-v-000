@@ -10,3 +10,4 @@ def key_for_min_value(Hash)
     end
     lowest_key
 end
+#this is by far the more elegant solution when compared to what I came up with haha.
